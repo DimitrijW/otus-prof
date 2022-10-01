@@ -34,3 +34,6 @@
 # builf folder
 build/*
 !build/build.xml
+
+.vscode/*
+!vscode/settings.json
