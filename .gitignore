@@ -35,5 +35,8 @@
 build/*
 !build/build.xml
 
+homework_01/build*
+!homework_01/build.xml
+
 .vscode/*
 !vscode/settings.json
