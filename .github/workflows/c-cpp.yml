@@ -7,7 +7,7 @@ on:
       - feature/github_actions
       
     pull_request:
-    branches: [ $default-branch ]
+    branches: [ main ]
 
 jobs:
   build:
